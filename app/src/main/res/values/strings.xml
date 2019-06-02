@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mobile_assiment</string>
+    <string name="title_activity_car_map">Map</string>
+    <string name="title_activity_bus_map">Map</string>
+</resources>
